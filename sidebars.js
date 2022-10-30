@@ -131,6 +131,7 @@ const sidebars = {
           },
           items: [
             'techdocs/build/library/1-1',
+            'techdocs/build/library/1-2',
           ]
         },
         {
