@@ -71,6 +71,7 @@ const sidebars = {
       },
       items: [
           'tech/rpc-endpoints/1-1',
+          'tech/rpc-endpoints/1-2',
       ],
     },
     {
