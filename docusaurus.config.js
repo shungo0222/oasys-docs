@@ -113,9 +113,9 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'tech/build-verse/1-1',
+            docId: 'build/1-1',
             position: 'left',
-            label: 'Game',
+            label: 'Build',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
