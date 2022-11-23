@@ -14,7 +14,7 @@ const sidebars = {
     }, 
     {
       type: 'category',
-      label: 'What',
+      label: 'What is Oasys?',
       link: {
         type: 'generated-index',
       },
@@ -49,6 +49,7 @@ const sidebars = {
           },
           items: [
             'tech/what/provide/1-1',
+            'tech/what/provide/1-2',
           ],
         },
         {  
