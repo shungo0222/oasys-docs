@@ -107,12 +107,6 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'tech/build-verse/1-1',
-            position: 'left',
-            label: 'Build a Verse',
-          },
-          {
-            type: 'doc',
             docId: 'build/1-1',
             position: 'left',
             label: 'Build',

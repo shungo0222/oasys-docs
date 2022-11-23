@@ -45,9 +45,9 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Building a Verse',
+    title: 'Building on Oasys',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    linkTo: "/docs/tech/build-verse/1-1",
+    linkTo: "/docs/build/1-1",
     description: (
       <>
         Guides on how to build our layer 2 network, Verse.
