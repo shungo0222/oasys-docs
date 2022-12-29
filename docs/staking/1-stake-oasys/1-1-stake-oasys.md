@@ -58,7 +58,9 @@ You can see with activity of transaction in metamask.
 
 ### 4. Withdraw 
 
-### 3. You can unstake by selecting your staked validator, and press unstake. 
+### 5. You can unstake by selecting your staked validator, and press unstake. 
+
+
 
 
 ## 3. Claim Staking Reward 
