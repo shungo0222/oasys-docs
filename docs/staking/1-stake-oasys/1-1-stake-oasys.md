@@ -50,11 +50,15 @@ You can see with activity of transaction in metamask.
 
 ### 3. You can unstake by selecting your staked validator, and press unstake. 
 
-**It requires 10 days to unstake.**
+**It requires 10 days to unstake. After unstake, please proceed to withrdaw for checking unstake status**
 
 **If you press max button, (max - gasfee) will be displayed.**
 
 ![staking16](/img/docs/techdocs/oasys-hub/unstake.png)
+
+### 4. Withdraw 
+
+### 3. You can unstake by selecting your staked validator, and press unstake. 
 
 
 ## 3. Claim Staking Reward 
