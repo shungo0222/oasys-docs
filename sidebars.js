@@ -344,6 +344,16 @@ const sidebars = {
       collapsed: true,
       items: [],
     },
+    {
+      type: 'category',
+      label: 'Smart Contract list', 
+      link: {
+        type: 'doc',
+        id: 'verse-developer/1-4-contract-info',
+      },
+      collapsed: true,
+      items: [],
+    },
   ],
   staking: [
     {
