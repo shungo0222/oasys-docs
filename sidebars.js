@@ -234,13 +234,23 @@ const sidebars = {
         'verse-developer/how-to-build-verse/1-1-requirement',
         'verse-developer/how-to-build-verse/1-2-manual',
         'verse-developer/how-to-build-verse/1-3-optional-configs',
-        'verse-developer/how-to-build-verse/1-4-verse-proxy',
-        'verse-developer/how-to-build-verse/1-5-rate-limit',
-        'verse-developer/how-to-build-verse/1-6-reduce-metamask-access',
         'verse-developer/how-to-build-verse/1-7-read-node',
         'verse-developer/how-to-build-verse/1-8-build-verse-submitter',
         'verse-developer/how-to-build-verse/1-9-explorer',
         'verse-developer/how-to-build-verse/1-10-sandverse',
+      ],
+    },
+    {
+      type: 'category',
+      label: "Manage Verse", 
+      link: {
+        type: 'generated-index',
+      },
+      collapsed: true,
+      items: [
+        'verse-developer/how-to-build-verse/1-4-verse-proxy',
+        'verse-developer/how-to-build-verse/1-5-rate-limit',
+        'verse-developer/how-to-build-verse/1-6-reduce-metamask-access',
       ],
     },
     {
