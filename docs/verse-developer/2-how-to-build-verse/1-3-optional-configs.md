@@ -3,7 +3,9 @@
 
 ## Registering on Oasys hub
 
-Registering chain for bridge on oasys hub: https://docs.google.com/forms/d/e/1FAIpQLSf3rk8s1Da1NjwoSGPYQBaawIKBl0_AGQKXobF78P79XupQWA/viewform
+For Oasys hub, registering chain is required.  
+Please [**Submit a form**](https://docs.google.com/forms/d/e/1FAIpQLSf3rk8s1Da1NjwoSGPYQBaawIKBl0_AGQKXobF78P79XupQWA/viewform) to register your verse on Oasys hub.
+
 
 ## Address List
 
@@ -116,7 +118,7 @@ Because the L2StandardERC721 contract is not pre-deployed, if you use ERC721, yo
 Chainlist is a web that provides an easy way to add a chain for users. It is recommended for all verses to add a verse on Chainlist. 
 
 :::caution
-If you are on dev mode for verse, adding chainlist will open your verse information to public.
+If you are on dev mode for verse, adding chainlist will open your verse information to **public**.
 ::::::
 
 ### Procedure for adding Chainlist
